@@ -1,0 +1,13 @@
+{
+  "name": "daman_&_diu",
+  "pincodes": ["362570", "362520", "362520", "362520", "362540", "362570"],
+  "districts": [
+    { "place": "Bucharvada", "pincode": "362570" },
+    { "place": "Diu", "pincode": "362520" },
+    { "place": "Diu Zampa", "pincode": "362520" },
+    { "place": "Fudam", "pincode": "362520" },
+    { "place": "Ghoghla", "pincode": "362540" },
+    { "place": "Wanakbara", "pincode": "362570" }
+  ],
+  "totalPincodesCount": 6
+}
